@@ -1,0 +1,34 @@
+.head{
+  height: 40px;
+  background-color: blue;
+  color: red;
+}
+
+.content{
+   height: 400px;
+   background-color: #888;
+}
+
+.menu{
+  float: left;
+}
+li{
+    margin-top: 10px;
+    background-color:green;
+}
+
+
+.show{
+  float: left;
+     height: 400px;
+    background-color: red;
+}
+.opration{
+
+}
+
+
+
+.tail{
+  background-color: yellow;
+}
